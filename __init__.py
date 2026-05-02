@@ -1,1 +1,1 @@
-# Ethics AI - Agents
+# Ethics AI - Knowledge Base
