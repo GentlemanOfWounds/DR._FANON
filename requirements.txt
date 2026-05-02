@@ -1,0 +1,15 @@
+# DR. FANON — Agentic Ethics Reasoning System
+# Python 3.10+ required
+
+# Voice Input (Speech-to-Text)
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14           # Required by SpeechRecognition for mic access
+
+# Voice Output (Text-to-Speech)
+pyttsx3>=2.90              # Offline TTS using Windows SAPI5 voices
+
+# Optional: Better quality online TTS (uncomment if desired)
+# edge-tts>=6.1.9
+
+# Optional: Offline STT via Vosk (uncomment if you want offline voice input)
+# vosk>=0.3.45
