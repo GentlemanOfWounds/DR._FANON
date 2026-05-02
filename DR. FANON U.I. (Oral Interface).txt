@@ -1,0 +1,199 @@
+PS C:\Users\Owner> cd C:\Users\Owner\Downloads\COSC_643_2W_26SP2_Final_Project\DR._FANON-agentic-ethics-system\ethics-ai
+
+PS C:\Users\Owner\Downloads\COSC_643_2W_26SP2_Final_Project\DR._FANON-agentic-ethics-system\ethics-ai> python main.py
+🎤 Calibrating microphone...
+🎤 Microphone ready. (pause threshold: 6s)
+
+🔊 TTS ready (Windows SAPI.SpVoice via VBScript)
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   ██████╗ ██████╗    ███████╗ █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗║
+║   ██╔══██╗██╔══██╗   ██╔════╝██╔══██╗████╗  ██║██╔═══██╗████╗  ██║║
+║   ██║  ██║██████╔╝   █████╗  ███████║██╔██╗ ██║██║   ██║██╔██╗ ██║║
+║   ██║  ██║██╔══██╗   ██╔══╝  ██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║║
+║   ██████╔╝██║  ██║██╗██║     ██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝║
+║                                                                   ║
+║   Agentic Ethics Reasoning System                                 ║
+║   Powered by RAMIFICATIONISM                                      ║
+║   In homage to Dr. Frantz Fanon, M.D. (1925-1961)                 ║
+║                                                                   ║
+║   COSC 643: Ethics of Artificial Intelligence                     ║
+║   Maryville University — Spring 2026                              ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+✅ Ollama is running (model: phi3:mini)
+
+I am DR. FANON, an agentic ethics reasoning system built on the ethical frameworks studied in COSC 643 — including utilitarianism, deontology, existentialism, Todd May's decency principle, and the personal framework of RAMIFICATIONISM.
+
+This system is named in homage to Dr. Frantz Fanon, M.D. (1925-1961), the Martinican psychiatrist, philosopher, and revolutionary whose work deeply influenced post-colonial studies, critical theory, and national liberation movements worldwide. Dr. Fanon is best known for his psychological analysis of the effects of colonial subjugation on the human psyche and his advocacy for revolutionary action as a means of decolonization and healing for the oppressed. His insistence that liberation requires both structural change and psychological transformation mirrors RAMIFICATIONISM's demand that ethics be rooted in enforceable consequence, not mere sentiment.
+
+I reason through ethical dilemmas and help you arrive at actionable conclusions.
+
+Speak or type your ethical concern, and I will:
+  I.   Discuss it with you through Socratic dialogue
+  II.  Analyze it through multiple ethical lenses
+  III. Help you formulate a practicable response
+
+What ethical question is on your mind?
+
+
+Commands:
+  analyze / next  — Move to the next phase
+  reset           — Start a new ethical inquiry
+  quick <concern> — Skip dialogue, run full analysis directly
+  help            — Show this help
+  quit / exit     — Exit DR. FANON
+
+
+[Phase I: Dialogue]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "I am a student in the master of science and artificial intelligence program at Maryville University of Saint Louis is it ethical for me to use large language models to write the essays for my computer science 643 FX in artificial intelligence course all I care about is getting a grade of a in the course completing my Ms in artificial intelligence from Maryville you and using that for my professional advancement"
+
+It sounds like your priority right now might be to achieve high grades, especially since it'll help with furthering your career. However, let’s think about this situation through the lens of various ethical frameworks before coming to a conclusion: utilitarianism focuses on outcomes and actions that promote greatest good for all parties involved; deontology looks at adherence to universal rules regardless of consequences—would using language models align with these principles? From RAMIFICATIONISM's perspective, we should ask who benefits from your grade-chasing behavior: is it yourself or someone else down the line in academia and beyond that you ultimately serve by potentially compromising academic integrity for a temporary gain. What do stakeholders such as teachers, peers, future students stand to lose if this practice becomes widespread?
+
+Given these points of consideration about how your actions could affect not just yourself but also the broader learning community at Maryville University and even in professional environments later on—are there ways you can succeed without resorting ethically questionable practices, while still maintaining academic integrity as a core value to uphold?
+
+What alternatives do we have that align with these frameworks of thought for completing your coursework effectively within the bounds of acceptable conduct and university policies regarding original work submission in essays. How might this decision impact not just yourself but also those around you, including future peers who may look up to how others handle academic pressures?
+
+
+[Phase I: Dialogue]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "to paraphrase the title of the classic album by the late great Dolores o'riordan and her Lads quote everybody else is doing it so why can't I unquote I will probably get away with my skin Scott free right so no harm no foul am I right I'm not hurting anyone am I"
+
+Your confidence in avoiding negative consequences by using language models for your essays seems to stem from the belief that if everyone is doing it, then there must be a gray area regarding its acceptability. However, let’s delve deeper into this: even though utilitarianism might initially seem appealing because you think no harm comes forth due to common practice—it's important we consider long-term outcomes and fairness for all students involved in your community at Maryville University of Saint Louis; what are the potential repercussions if academic integrity is not upheld?
+
+From a RAMIFICATIONIST perspective, it’s crucial to ask: who controls this behavior—is there an unspoken rule allowing cheating as long as no one gets caught or penalized for dishonesty in your circle; how does the profit (in terms of grades and career advancement) compare against potential loss if discovered?
+
+Also, let’s think about authenticity from a humanistic standpoint. Authentic living is central to existentialist thought—how would you feel knowing that part of who we are as individuals involves being true not only in our personal dealings but also within academic and professional realms; can using AI-generated essays contribute positively towards developing your own voice, or does it detract from an opportunity for self-expression through learning?
+
+Lastly consider Todd May's Decency framework which emphasizes dignity and respect—isn’t ensuring fairness in academia a reflection of treating yourself with the same ethical standards that you would wish upon others, maintaining your own sense of integrity for personal growth alongside fostering an environment where everyone can thrive on equal grounds?
+
+How might these principles guide us to find ways not just avoid negative outcomes but also cultivate positive habits and trust within academic circles at Maryville University; could there be a way you complete assignments that is honest, upholds your dignity as well the university's reputation for integrity while still achzving academically? What are some strategies or resources available to enhance essay writing skills without resorting to AI-generated content and how might they benefit not just yourself but also align with Maryville University’s commitment towards ethical educational practices.
+
+   ⚠️ Speech timed out
+
+[Phase I: Dialogue]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "that's all well and good but this trumped-up economic recessions sucks isn't there an ethical argument that champions my prioritizing safeguarding my livelihood in this post-apocalyptic and Stage capitalistic hellscape of phantasmagoric and Normandie"
+
+It’s clear you are under significant stress, feeling the weight of economic pressures while also facing academic challenges. In times like these—a 'post-apocalyptic' scenario with stark realities to face daily as well as a struggle for survival in what seems an unforgiving environment influenced by normandie capitalism and phantasmagoric uncertainties, let’s reframe our discussion of ethics within these harsh conditions.
+
+Utilitarian principles might suggest that taking any action to protect your livelihood is justified if it prevents greater harm or suffering for yourself—yet this approach should not be taken lightly as the long-term consequences must also weigh heavily in one's decision; are there ways you can maintain integrity and pursue success without crossing ethical lines that might have severe repercussimnetic effects on your community?
+
+From RAMIFICATIONISM’s point of view, examining who controls the narrative around survival tactics like using AI for academic work is essential. Considering such a desperate economic situation—who truly benefits if everyone resorts to unethical behavior; what does this say about societal values under extreme stress? Does it not perpetuate an environment where integrity becomes secondary, and trust erodes further in these trying times when we most need unity against the 'normandie capitalistic hellscape' as you described.
+
+Moreover, Todd May’s concept of Decency asks us to treat ourselves with dignity even under dire circumstances; how might that self-respect manifest now? How can embracing ethical behavior in a challenged environment act as an example for others and contribute towards rebuilding trust within your community at Maryville University—even if it seems the world around is crumbling economically, academically maintaining integrity could be seen not just as personal survival but also societal.
+
+How then can we find balancing acts between safeguarding our livelihoods and upholding ethical standards in education? Are there resources or support systems at Maryville University that might help you navigate these pressing economic concerns while still striving to complete your academic work with integrity—perhaps through counselors, tutor-led study groups focusing on enhancing writing skills without unethical shortcuts; can we foster a campus culture of empathy and support during such testing times?
+
+In navigating
+
+---
+[You can say 'analyze' to move to formal ethical analysis, or continue the dialogue.]
+
+   ⚠️ Speech timed out
+
+[Phase I: Dialogue]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "is there any way for me to ease my academic burden and facilitate my professional Ambitions without undermining my Integrity or abusing technological or knowledge advantages that other students relatively lack"
+
+Facing the dual challenge of maintaining integrity while pursuing your ambitions in a world where others may not have equal access is daunting, but it's an opportunity to showcase strength and character. The situation you find yourself in—a blend between academic pressure under economic duress at Maryville University amidst broader societal challenges such as normandie capitalism or apocalyptic fear mongering with phantasmagoric elements, can't be taken lightly when discussing the ethical implications of our choices.
+
+From a utilitarian viewpoint—one that seeks to maximize overall happiness and well-being even in dire circumstances; how might we find ways for you not only to excel academically but also contribute positively back into your community, creating shared benefits without resorting to unethical shortcuts? Could there be a way where collaborative learning models are encouraged on campus that provide mutual aid and elevate everyone's skill set simultaneously—thus enhancing the collective academic standing of Maryville University as well as providing you with support in your own endeavors, creating an equilibrium between individual ambition and communal prosperity?
+
+Incorporating RAMIFICATIONISM into our ethical discussion is key when considering who gains advantageously from using such 'knowledge advantages.' We must ask: how can the existing power dynamics at Maryville University be leveraged to create fairness for all students, regardless of their economic backgrounds? It’s about creating a level playing field—why not petition or start initiatives advocating transparent resource allocation that benefits those in need rather than exploiting them.
+
+Let's also consider Todd May and the Decency framework which implores us to act with respect for ourselves, others around us at Maryville University including your peers who may be facing similar struggles—how can you lead by example through fair practices that not only uphold integrity but inspire trust within a community where it's sorely needed?
+
+Existentialism reminds us to live authentically even when the world seems hellish. It asks: what is your personal truth and how does one navigate these ethical quandaries while maintaining authenticity in their actions, decisions—and most importantly self-respect; can't there be innovative ways within academic structures at Maryville University that allow you to achieve professional ambitions without comprom
+
+---
+[You can say 'analyze' to move to formal ethical analysis, or continue the dialogue.]
+
+   ⚠️ Speech timed out
+
+[Phase I: Dialogue]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "analyze"
+
+⏳ Summarizing dialogue for ethical analysis...
+
+⏳ Generating multi-framework ethical analysis...
+   (This may take 30-90 seconds on CPU — please be patient)
+
+
+Utilitarian ANALYSIS:
+(Who benefits? Who is harmed?) In this scenario, the immediate beneficiaries are students who face economic hardships as they alleviate their academic burdens by using AI-generated essays. This could be considered a net utility for them in terms of time saved and stress reduction during exam periods or when writing lengthy papers that demand extensive research—alluding to the immediate relief such actions may provide given difficult times, similar to Bhagat Singh's struggle against oppressive conditions where direct confrontation with adversity is unavoidable. On balance:
+- Benefited: Students facing economic hardships using AI essays as a means of survival in education; those directly benefiting from cheating without immediate personal harm since there are no penalties within the group at Maryville University for now—akin to Winnie Madikizela-Mandela's justified struggle, where dire circumstances might lead some individuals down morally grey paths.
+- Harmed: The integrity of academic standards and peer trust could be compromised as it creates an unequal playing field among students who do not use such resources or are unable to access them; the faculty members lose faith in fair competition based on merit, risking overall educational quality—akin to exploitation by masked manipulation.
+- Net Utility: Low net positive utility due to long term harmful effects of eroding academic integrity and trust within Maryville University's community structure if left unchecked; this could lead students down a path where they might continue cheating in other aspects, undermining personal growth from learning experiences—akin to the exploitation Winnie Madikizela-Mandela faced which altered her morality.
+
+Deontological ANALYSIS:
+(Can this be universalized? Are people treated as ends or means?) This practice cannot ethically stand under Universal Law, where one's actions are considered to become a standard for all—similarly treating others merely through the lens of exploitation. If every student were allowed AI-generated essays without consequence:
+1) It would be impossible to maintain academic integrity universally as it reduces people (students and faculty members alike, who value honesty in education), from ends unto means—merely tools for survival rather than individuals striving towards personal growth. The scenario
+
+---
+[Say 'action' or 'next' for practicable countermeasures, or ask follow-up questions about the analysis.]
+
+   ⚠️ Speech timed out
+
+[Phase III: Action]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "action"
+
+⏳ Generating action plan...
+   (This may take 30-60 seconds on CPU)
+
+
+IMMEDIATE ACTIONS:
+1. Refrain from using large language models for academic work; instead focus on leveraging these tools as aids in research and not replacements—utilize them under the guidance of your professor or TA to ensure understanding, respecting their intent behind learning artificial intelligence rather than exploiting technology unethically (Real Agency: Office of Student Affairs at Maryville University).
+2. Use plagiarism detection tools like Turnitin's "PlagScan" for self-check before submission and educate oneself on proper citation practices to avoid academic dishonesty—strengthen your own understanding rather than relying solely upon AI (Real Tool: PlagScan).
+3. Schedule a meeting with Dr. Jane Doe, the course instructor or TA for guidance about utilizing technology ethically in academia and understand how to properly incorporate artificial intelligence tools into research without compromising academic integrity—seek advice on effective study strategies (Real Agency: Maryville University's Office of Academic Affairs).
+
+ADVOCACY ACTIONS:
+- Engage with the university community, including peers and faculty to discuss your concerns about balancing technological assistance within ethical boundaries in academic work. This can raise awareness on a larger scale (Real Agency/Action: Facilitating open forums or discussion groups at Maryville University).
+- Write an essay highlighting the potential dangers of overreliance on AI and advocate for clear policies within educational institutions about technology use—this could be shared with your peers, faculty members (Real Action/Tool: Campaign through social media platforms like Twitter or LinkedIn using #EthicalAI in Education).
+- Encourage student discussions around the implications of AI and advocate for workshops that educate on ethical use—host an event with guest speakers specializing in academic integrity (Real Agency/Action: Organize a seminar or webinar, invite experts to Maryville University’s campus).
+
+SYSTEMIC ACTIONS:
+- Participate actively within university governance committees and work towards proposing stricter guidelines for technology use in academia—this could be done through student government or directly engaging with the Student Senate (Real Agency/Action: Maryville University's
+
+═══════════════════════════════════════════════════
+DR. FANON has completed the three-phase analysis.
+Say 'new question' to start a new ethical inquiry,
+or ask follow-up questions about any phase.
+═══════════════════════════════════════════════════
+
+   ⚠️ Speech timed out
+
+[Complete]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "thank you ever so much for the extensive multifaceted discourse"
+
+Ready for a new ethical inquiry. What concern would you like to explore?
+
+
+[Phase I: Dialogue]
+
+🎤 Listening... (speak when ready, up to 60 seconds)
+⏳ Transcribing...
+📝 Heard: "exit"
+
+Thank you for engaging in ethical reasoning! As Doctor Fanon taught us, liberation requires both structural change and psychological transformation. And as RAMIFICATIONISM insists: transparency without power is toothless, fairness without remedy is theater, accountability without punishment is fiction! Now, endeavor forth to forcibly forge a more just and equitable world!!!
